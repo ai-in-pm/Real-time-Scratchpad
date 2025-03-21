@@ -1,0 +1,52 @@
+.ai-extractor {
+  position: relative;
+  padding: 1rem;
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.extractor-controls {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.extract-button {
+  padding: 0.5rem 1rem;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.extract-button:hover {
+  background-color: #357ab8;
+}
+
+.extract-button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+.loading-indicator {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  text-align: center;
+  font-style: italic;
+}
+
+.error-message {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background-color: #ffebee;
+  border: 1px solid #ffcdd2;
+  border-radius: 4px;
+  color: #b71c1c;
+}
