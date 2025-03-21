@@ -1,4 +1,5 @@
 # JSON Extraction Simulator
+https://github.com/user-attachments/assets/c7657ea7-a211-45ba-aa73-a444e8ee498f
 
 A React application that demonstrates an AI Agent performing real-time extraction of fields from JSON data. The app provides two modes of operation:
 
@@ -37,10 +38,6 @@ A React application that demonstrates an AI Agent performing real-time extractio
    ```bash
    npm start
    ```
-
-https://github.com/user-attachments/assets/c7657ea7-a211-45ba-aa73-a444e8ee498f
-
-
 
 ## Usage
 
