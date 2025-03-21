@@ -38,6 +38,10 @@ A React application that demonstrates real-time extraction of fields from JSON d
    npm start
    ```
 
+https://github.com/user-attachments/assets/c7657ea7-a211-45ba-aa73-a444e8ee498f
+
+
+
 ## Usage
 
 1. Upload a JSON file using the "Choose JSON File" button or use the default sample data
