@@ -1,6 +1,6 @@
 # JSON Extraction Simulator
 
-A React application that demonstrates real-time extraction of fields from JSON data. The app provides two modes of operation:
+A React application that demonstrates an AI Agent performing real-time extraction of fields from JSON data. The app provides two modes of operation:
 
 1. **Simulation Mode**: Mimics an AI extracting fields from JSON with realistic typing effects, including random pauses and occasional typos.
 2. **OpenAI Mode**: Uses the OpenAI API to perform actual field extraction from JSON data in real-time.
